@@ -17,7 +17,7 @@ The refactored script to dynamically determine the number of stocks in the analy
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/82549092/116828758-b49ef280-ab6e-11eb-922e-0f6fd3304b66.PNG)
 ![VBA_Challenge_2018-All Stocks Refactor](https://user-images.githubusercontent.com/82549092/116828759-b5d01f80-ab6e-11eb-9488-da681494b3f0.PNG)
 
-As a note - The code to loop through the 12 entities is titled _AllStocksAnalysis12StocksRefactored()_ and the refactored code to loop through an inderminate amount of entities is titled _AllStocksAnalysisLoopThroughStocksRefactored_.
+As a note - The script to loop through the 12 stocks is titled _AllStocksAnalysis12StocksRefactored_ and the refactored script to loop through an inderminate amount of entities is titled _AllStocksAnalysisLoopThroughStocksRefactored_.
 
 
 **Summary**
