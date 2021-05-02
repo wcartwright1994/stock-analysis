@@ -1,5 +1,5 @@
 # stock-analysis
-Performing analysis on green energy companies to help Steve advise his parents' portfolio
+Performing analysis on green energy companies to help Steve advise his parents' portfolio.
 
 **Overview of the Project**
 
