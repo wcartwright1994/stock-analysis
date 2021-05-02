@@ -24,10 +24,10 @@ As a note - The code to loop through the 12 entities is titled _AllStocksAnalysi
 
 _Advantages and Disadvantages of Refactoring Code in General_
 
-In general, refactoring code can have the following advantages and disadvantages in general:
+In general, refactoring code can have the following advantages and disadvantages:
   1. _Advantage:_ Code can be made more efficient through taking fewer steps, using less memory, or improving the logic in general. The original code will be used as a baseline to compare the runtime and results of the updated code.
   2. _Disadvantage:_ Refactoring code can lead to extended runtimes for scripts. This is usually the case when original scripts are not dynamic and have static requirements. Explaining the cause of the increase in runtime to stakeholders is important to ensure the stackholders understand the trade-off between longer runtime and initial resource investment versus shorter runtime and increased long-time script management.
-  3. _Advantage:_ Refactoring code also lead to ongoing code reviews that can identify logical errors in the original script. Even though scripts could work when originally developed, requirements and data change over time.
+  3. _Advantage:_ Refactoring code also lead to ongoing code reviews that can identify logical errors in the original script. Even though scripts could work when originally developed, requirements and data change over time. See number 3 below as an example.
 
 _Advantages and Disadvantages of Refactoring Code in Current VBA Script_
 
