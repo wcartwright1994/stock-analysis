@@ -21,6 +21,7 @@ As a note - The code to loop through the 12 entities is titled _AllStocksAnalysi
 
 
 **Summary**
+
 _Advantages and Disadvantages of Refactoring Code in General_
 
 In general, refactoring code can have the following advantages and disadvantages in general:
