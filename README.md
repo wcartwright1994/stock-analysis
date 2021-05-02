@@ -22,12 +22,14 @@ As a note - The code to loop through the 12 entities is titled _AllStocksAnalysi
 
 **Summary**
 _Advantages and Disadvantages of Refactoring Code in General_
+
 In general, refactoring code can have the following advantages and disadvantages in general:
   1. _Advantage:_ Code can be made more efficient through taking fewer steps, using less memory, or improving the logic in general. The original code will be used as a baseline to compare the runtime and results of the updated code.
   2. _Disadvantage:_ Refactoring code can lead to extended runtimes for scripts. This is usually the case when original scripts are not dynamic and have static requirements. Explaining the cause of the increase in runtime to stakeholders is important to ensure the stackholders understand the trade-off between longer runtime and initial resource investment versus shorter runtime and increased long-time script management.
   3. _Advantage:_ Refactoring code also lead to ongoing code reviews that can identify logical errors in the original script. Even though scripts could work when originally developed, requirements and data change over time.
 
 _Advantages and Disadvantages of Refactoring Code in Current VBA Script_
+
 Although a disadvantage of the new script is that it took longer to run, the following benefits were achieved:
   1. The refactored script does not require the user to enter the universe of equities to include. As the universe grows to include the entire market, adding each equity individually will be time consuming and require constant updates.
   2. The refactored script updates the summary page with the exact number of rows in the input year's analysis. The original code required the user to delete rows in the summary page if the new year's population was smaller and also update the code with the new year's tickerIndex + 4 if the population changed. 
